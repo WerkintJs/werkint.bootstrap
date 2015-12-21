@@ -1,0 +1,10 @@
+{
+    "name":         "werkint.bootstrap",
+    "version":      "0.0.1",
+    "dependencies": {
+        "bootstrap": "*"
+    },
+    "main":         [
+        "bootstrap.es6"
+    ]
+}

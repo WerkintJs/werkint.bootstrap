@@ -1,0 +1,18 @@
+{
+    "bootstrap": {
+        "main": [
+            "dist/js/bootstrap.min.js",
+            "dist/css/bootstrap.min.css",
+            "dist/css/bootstrap.min.css.map"
+        ]
+    },
+    "renames":   {
+        "dist/js/bootstrap.min":       "bootstrap/bootstrap.min",
+        "dist/js/bootstrap.min.js":       "bootstrap/bootstrap.min.js",
+        "dist/css/bootstrap.min.css":     "bootstrap/bootstrap.min.css",
+        "dist/css/bootstrap.min.css.map": "bootstrap/bootstrap.min.css.map"
+    },
+    "ignored":   {
+        "bootstrap": true
+    }
+}
