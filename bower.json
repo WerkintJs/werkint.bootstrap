@@ -2,7 +2,8 @@
     "name":         "werkint.bootstrap",
     "version":      "0.0.1",
     "dependencies": {
-        "bootstrap": "*"
+        "fontawesome": "*",
+        "bootstrap":   "*"
     },
     "main":         [
         "bootstrap.es6",
