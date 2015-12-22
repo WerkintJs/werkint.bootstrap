@@ -5,6 +5,9 @@
         "bootstrap": "*"
     },
     "main":         [
-        "bootstrap.es6"
+        "bootstrap.es6",
+        "bootstrap.inspinia.es6",
+        "bootstrap.inspiniaLoader.es6",
+        "inspinia/*"
     ]
 }
